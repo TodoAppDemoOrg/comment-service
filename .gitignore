@@ -1,0 +1,6 @@
+__pycache__
+*.pyc
+*.sqlite3
+.idea
+static
+.pytest_cache
